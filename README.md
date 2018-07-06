@@ -6,6 +6,7 @@ This project is simply used to read the intents, utterances, and text-based resp
 
 ## Steps to run
 - Clone the Repo
-- Place all of your intents in the `chatbot-intents` folder
+- create a folder named `chatbot-intents`
+- Place all of your intent and utterance JSON files in the `chatbot-intents` folder
 - Go to the root project directory
 - Run the program by typing `python main.py`. A markdown file name `intent.md` will be generated.
