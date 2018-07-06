@@ -3,6 +3,7 @@ This project is simply used to read the intents, utterances, and text-based resp
 
 ## Dependencies
 - Python 3 (I used 3.5.2) can be downloaded [here](https://www.python.org/downloads/)
+- Exported JSON files from DialogFlow of your chatbot.
 
 ## Steps to run
 - Clone the Repo
